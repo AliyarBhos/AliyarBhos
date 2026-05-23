@@ -151,14 +151,4 @@
 
 ---
 
-<div align="center">
-
-## 💡 “Artificial Intelligence is built through data, mathematics, and continuous learning.”
-
-<img src="https://komarev.com/ghpvc/?username=AliyarBhos&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
-
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
