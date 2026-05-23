@@ -1,25 +1,55 @@
-## Hi there 👋
-
 <div align="center">
 
-<!-- Animated header — capsule-render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alex%20Chen&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Eliyar%20Bayramov&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=60&descSize=18" />
 
-<!-- Animated typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Building+things+for+the+web+✨;Open+source+contributor+🔬;Always+learning+something+new+📚" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Learning+Machine+Learning+from+First+Principles+🧠;Building+AI+and+Deep+Learning+Projects+🚀;Exploring+Neural+Networks+with+PyTorch+🔥;Turning+Data+into+Intelligent+Systems+📊" alt="Typing SVG" />
+
+---
+
+# 👋 Hi, I'm Aliyar
+
+### 🧠 AI & Machine Learning Enthusiast  
+### 🚀 Aspiring ML Engineer  
+### 📚 Deeply Learning AI Systems from Fundamentals
+
+</div>
 
 ---
 
-### 🙋 About Me
+## 🙋 About Me
 
-- 🔭 Currently working on exciting open source projects
-- 🌱 Learning 
-- 💬 Ask me about React, Node.js, and system design
-- 📍 Based in San Francisco
-- 🌐 Open to remote opportunities
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
+```python
+class EliyarBayramov:
 
----
+    def __init__(self):
+        self.role = "Aspiring ML Engineer"
+        self.focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Data Science",
+            "Neural Networks",
+            "Computer Vision"
+        ]
+
+        self.currently_learning = [
+            "PyTorch",
+            "CNNs",
+            "Backpropagation",
+            "Mathematics for ML",
+            "System Design"
+        ]
+
+        self.interests = [
+            "AI-powered systems",
+            "Intelligent automation",
+            "Predictive analytics",
+            "ML infrastructure"
+        ]
+
+    def life_philosophy(self):
+        return "Learn deeply. Build consistently. Improve endlessly."
 
 🛠️ Tech Stack
 👨‍💻 Languages
