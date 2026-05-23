@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Aliyar%20Bayramov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Aspiring%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Aliyar%20Bayramov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Aspiring%20AI%20Engineer&descAlignY=60&descSize=18"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Transforming+Data+into+Intelligent+Systems+📊;Building+Machine+Learning+and+AI+Solutions+🧠;Exploring+Deep+Learning+with+PyTorch+🔥;Data+Science+%7C+AI+Engineering+%7C+Analytics+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Building+Intelligent+Systems+with+Data+and+AI;Exploring+Deep+Learning%2C+Computer+Vision+and+LLMs" alt="Typing SVG"/>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Focused%20on-AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Analytics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep-Learning-purple?style=for-the-badge"/>
 
 </div>
 
@@ -20,70 +18,46 @@
 
 # 👋 About Me
 
-```python
-class AliyarBayramov:
+🎓 Data Scientist with strong interest in Artificial Intelligence and intelligent systems.
 
-    def __init__(self):
+📊 Experienced in data analysis, machine learning, and extracting insights from complex datasets.
 
-        self.role = "Data Scientist & Aspiring AI Engineer"
+🤖 Currently focused on developing skills in:
+- Deep Learning
+- AI Engineering
+- Computer Vision
+- Large Language Models (LLMs)
+- Recurrent Neural Networks (RNNs)
 
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics",
-            "Artificial Intelligence",
-            "Predictive Modeling"
-        ]
-
-        self.current_focus = [
-            "PyTorch",
-            "Neural Networks",
-            "Computer Vision",
-            "ML System Design",
-            "AI Engineering"
-        ]
-
-        self.interests = [
-            "AI-powered applications",
-            "Intelligent systems",
-            "Automation",
-            "Data-driven decision making",
-            "Real-world AI solutions"
-        ]
-
-    def philosophy(self):
-        return "Learn deeply. Build intelligently. Improve continuously."
-```
+🚀 Passionate about building real-world AI solutions and continuously improving technical and mathematical foundations.
 
 ---
 
 # 🧠 What I Do
 
-- 📊 Analyze complex datasets and uncover actionable insights
-- 🤖 Build and experiment with Machine Learning models
-- 🔥 Explore Deep Learning architectures using PyTorch
+- 📊 Analyze and interpret complex datasets
+- 🤖 Build Machine Learning and Deep Learning models
 - 📈 Create predictive and data-driven solutions
-- 🧪 Continuously improve mathematical and AI foundations
-- 🚀 Working toward becoming a professional AI Engineer
+- 👁️ Explore Computer Vision and AI applications
+- 🧠 Study modern AI architectures including LLMs and RNNs
+- ⚡ Improve AI Engineering and deployment skills
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
+## 📌 Core Languages
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🤖 AI, Machine Learning & Data Science
 
 <p align="center">
 
@@ -92,7 +66,6 @@ class AliyarBayramov:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
@@ -104,22 +77,8 @@ class AliyarBayramov:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-## ⚙️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
 
 </p>
 
@@ -129,15 +88,14 @@ class AliyarBayramov:
 
 <div align="center">
 
-| Topic                             | Progress      |
-| --------------------------------- | ------------- |
-| Machine Learning Fundamentals     | ███████████░  |
-| Deep Learning with PyTorch        | █████████░░░  |
-| Neural Networks & Backpropagation | ██████████░░  |
-| Data Analytics & Visualization    | ███████████░  |
-| Computer Vision                   | ███████░░░░░  |
-| Mathematics for AI                | ████████░░░░  |
-| AI Engineering Concepts           | ███████░░░░░  |
+| Topic                     | Progress     |
+| ------------------------- | ------------ |
+| Machine Learning          | ███████████░ |
+| Deep Learning             | █████████░░░ |
+| Computer Vision           | ████████░░░░ |
+| Large Language Models     | ███████░░░░░ |
+| Recurrent Neural Networks | ███████░░░░░ |
+| AI Engineering            | ███████░░░░░ |
 
 </div>
 
@@ -147,14 +105,14 @@ class AliyarBayramov:
 
 <div align="center">
 
-| Field                      | Description                                          |
-| -------------------------- | ---------------------------------------------------- |
-| 🤖 Artificial Intelligence | Building intelligent systems and smart applications  |
-| 📊 Data Science            | Extracting actionable insights from data             |
-| 🔥 Deep Learning           | Exploring neural networks and advanced architectures |
-| 👁️ Computer Vision        | Image processing and AI-based visual understanding   |
-| 📈 Predictive Analytics    | Forecasting trends using ML models                   |
-| ⚡ AI Engineering          | Designing scalable AI-powered solutions              |
+| Field                  | Focus Area                                      |
+| ---------------------- | ------------------------------------------------ |
+| 📊 Data Science        | Data analysis and predictive modeling           |
+| 🤖 Machine Learning    | Intelligent systems and model development       |
+| 🔥 Deep Learning       | Neural networks and advanced architectures      |
+| 👁️ Computer Vision    | AI-based image understanding                    |
+| 🧠 Large Language Models | NLP and generative AI systems                 |
+| ⚡ AI Engineering       | Building scalable AI applications               |
 
 </div>
 
@@ -166,35 +124,19 @@ class AliyarBayramov:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-</picture>
 
 ---
 
 # 🌟 2026 Goals
 
-- ✅ Build advanced end-to-end AI projects
-- ✅ Master PyTorch and Deep Learning fundamentals
-- ✅ Strengthen mathematical foundations for ML
-- ✅ Deploy intelligent ML applications
-- ✅ Contribute to open-source AI projects
+- ✅ Build advanced AI and Deep Learning projects
+- ✅ Improve AI Engineering skills
+- ✅ Strengthen Computer Vision knowledge
+- ✅ Learn advanced LLM architectures
+- ✅ Contribute to AI-related open-source projects
 - ✅ Become a professional AI Engineer
 
 ---
@@ -204,10 +146,10 @@ class AliyarBayramov:
 ```text
 🧠 AI Study Assistant
 📊 Intelligent Analytics Dashboard
-🎙️ Audio-to-Insight AI System
-👁️ Computer Vision Detection Models
-📈 Predictive Analytics Platforms
-🤖 AI-powered Automation Tools
+👁️ Computer Vision Detection System
+🤖 LLM-based AI Assistant
+📈 Predictive Analytics Platform
+⚡ AI-powered Automation Tools
 ```
 
 ---
@@ -234,7 +176,7 @@ class AliyarBayramov:
 
 <div align="center">
 
-## 💡 “Artificial Intelligence is not magic — it is mathematics, data, and persistence.”
+## 💡 “Artificial Intelligence is built through data, mathematics, and continuous learning.”
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
 
@@ -242,6 +184,4 @@ class AliyarBayramov:
 
 ---
 
-<!-- Animated Footer -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
