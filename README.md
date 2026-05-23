@@ -155,7 +155,7 @@
 
 ## 💡 “Artificial Intelligence is built through data, mathematics, and continuous learning.”
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AliyarBhos&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
 
 </div>
 
