@@ -20,7 +20,7 @@
 
 # 👋 About Me
 
-```python
+python
 class AliyarBayramov:
 
     def __init__(self):
@@ -53,7 +53,7 @@ class AliyarBayramov:
 
     def philosophy(self):
         return "Learn deeply. Build intelligently. Improve continuously."
-````
+
 
 ---
 
