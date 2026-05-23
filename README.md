@@ -122,35 +122,12 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliyarBhos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyarBhos&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🌟 2026 Goals
-
-- ✅ Build advanced AI and Deep Learning projects
-- ✅ Improve AI Engineering skills
-- ✅ Strengthen Computer Vision knowledge
-- ✅ Learn advanced LLM architectures
-- ✅ Contribute to AI-related open-source projects
-- ✅ Become a professional AI Engineer
-
----
-
-# 📌 Featured Project Ideas
-
-```text
-🧠 AI Study Assistant
-📊 Intelligent Analytics Dashboard
-👁️ Computer Vision Detection System
-🤖 LLM-based AI Assistant
-📈 Predictive Analytics Platform
-⚡ AI-powered Automation Tools
-```
 
 ---
 
@@ -166,7 +143,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AliyarBhos">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
