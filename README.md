@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
-## 🌐 Frontend (Supporting Knowledge)
+🌐 Frontend (Supporting Knowledge)
 
 <p align="center">
 
