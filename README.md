@@ -134,11 +134,9 @@
 
 <p align="center">
 
-<!-- Stats card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliyarBhos&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliyarBhos&show_icons=true&theme=tokyonight"/>
 
-<!-- Top langs -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AliyarBhos&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyarBhos&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
 
